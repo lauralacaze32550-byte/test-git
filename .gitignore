@@ -1,0 +1,8 @@
+#Tout les fichiers qui se finissent par ces suffixes
+.venv
+venv
+
+*.csv
+*.json
+
+_pyrache_
